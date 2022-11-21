@@ -20,7 +20,7 @@ Input:
 Output:
 6
 2
-```
+``
 */
 
 #include <iostream>
